@@ -7,4 +7,4 @@ I am a French-Brazilian product manager working data and analytics. I have lived
 
 This is my personal page, where I share thoughts on anything that comes to my mind. Feel free to drop me a line at [angela.chieh@gmail.com](mailto:angela.chieh@gmail.com?Subject=Hi!).
 
-This page was built with [Jekyll](https://jekyllrb.com/) using a theme by [@TaylanTatli](https://github.com/TaylanTatli) based on [@skeroble](https://github.com/srekoble)'s orginal work. Images come from Unsplash, Lorem Pixel, or myself.
+This page was built with [Jekyll](https://jekyllrb.com/) based on a theme by [@TaylanTatli](https://github.com/TaylanTatli) and [@skeroble](https://github.com/srekoble) (orginal work). Images come from Unsplash, Lorem Pixel, or myself.
