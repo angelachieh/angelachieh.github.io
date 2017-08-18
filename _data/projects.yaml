@@ -1,0 +1,9 @@
+- title: Paris In Images
+  url: https://parisinimages.wordpress.com/
+  image: /images/home.png
+  completed: true
+
+- title: Youtube Controls
+  url: https://github.com/angelachieh/youtube-controls
+  image: /images/unsplash-image-1.jpg
+  completed: true
