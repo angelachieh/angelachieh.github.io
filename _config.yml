@@ -1,7 +1,7 @@
 # Site
 title: Angela Chieh
 description: This is my personal page. Welcome!
-url: https://angelachieh.github.io
+url: http://localhost:4000
 logo: logo.png                                       # Site logo
 locale: en_US
 
@@ -53,6 +53,12 @@ linkedin:           angela-chieh-38964812
 #xmpp:              username@server.com
 #hackernews:        username
 #behance:           username
+
+# Compress
+compress_html:
+  clippings: all
+  comments:  ["<!-- ", " -->"]
+  endings:   all
 
 # Gems
 gems:
