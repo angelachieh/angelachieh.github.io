@@ -7,3 +7,9 @@
   url: https://chrome.google.com/webstore/detail/youtube-controls/fhngkpiffakehbibekpbodppcimgplel
   image: /images/mac-music.jpg
   completed: true
+
+- title: Papers
+  url: https://scholar.google.com/citations?user=IYFlq68AAAAJ&hl=en
+  image: /images/library.jpg
+  completed: true
+  
