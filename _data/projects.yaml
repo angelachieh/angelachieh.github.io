@@ -1,10 +1,25 @@
+- title: JustML – Automated Machine Mearning
+  url: https://justml.io/
+  image: /images/justml.jpg
+  completed: true
+
+- title: Data Prism – Data Science Newsletter
+  url: http://dataprism.co/
+  image: /images/dataprism.jpg
+  completed: true
+
+- title: Football Tracker
+  url: https://webtrax.alwaysdata.net/fifaindex-teams
+  image: /images/football.jpg
+  completed: true
+
 - title: Paris In Images
   url: https://parisinimages.wordpress.com/
   image: /images/paris.jpg
   completed: true
 
 - title: Youtube Controls
-  url: https://chrome.google.com/webstore/detail/youtube-controls/fhngkpiffakehbibekpbodppcimgplel
+  url: https://github.com/angelachieh/youtube-controls
   image: /images/mac-music.jpg
   completed: true
 
