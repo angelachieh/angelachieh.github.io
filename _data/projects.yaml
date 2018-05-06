@@ -20,7 +20,7 @@
   image: /images/paris.jpg
   completed: true
 
-- title: Youtube Controls
+- title: Youtube Controller
   url: https://github.com/angelachieh/youtube-controls
   image: /images/mac-music.jpg
   completed: true
