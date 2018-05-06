@@ -1,9 +1,11 @@
-- title: JustML – Automated Machine Mearning
+- title: JustML
+  subtitle: Automated Machine Mearning
   url: https://justml.io/
   image: /images/justml.jpg
   completed: true
 
-- title: Data Prism – Data Science Newsletter
+- title: Data Prism
+  subtitle: Data Science Newsletter
   url: http://dataprism.co/
   image: /images/dataprism.jpg
   completed: true
